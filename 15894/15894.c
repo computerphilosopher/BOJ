@@ -1,0 +1,1 @@
+main(){long n=0;scanf("%ld", &n);printf("%ld", (3*n)+n);}
